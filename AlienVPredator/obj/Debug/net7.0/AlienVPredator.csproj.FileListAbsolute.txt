@@ -1,0 +1,14 @@
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\bin\Debug\net7.0\AlienVPredator.exe
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\bin\Debug\net7.0\AlienVPredator.deps.json
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\bin\Debug\net7.0\AlienVPredator.runtimeconfig.json
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\bin\Debug\net7.0\AlienVPredator.dll
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\bin\Debug\net7.0\AlienVPredator.pdb
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.AssemblyInfoInputs.cache
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.AssemblyInfo.cs
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.csproj.CoreCompileInputs.cache
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.dll
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\refint\AlienVPredator.dll
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.pdb
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\AlienVPredator.genruntimeconfig.cache
+c:\Users\jacob\Documents\c#\Practica1Lenguajes\AlienVPredator\obj\Debug\net7.0\ref\AlienVPredator.dll
